@@ -1,0 +1,15 @@
+{
+  "name": "cis156-JavaScript-Unit-9-Objects-Project-Start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "data.js": "^0.12.11"
+  }
+}
